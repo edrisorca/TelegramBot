@@ -1,0 +1,4 @@
+python-telegram-bot==20.6
+yt-dlp==2024.05.27
+requests
+pydub
